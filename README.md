@@ -48,15 +48,15 @@ pm2 start bot.js --name "BackupBot"
 ## 🛠️ Available Commands
 | Command | Description |
 |---------|------|
-| `/forcebck` | Wymusza natychmiastową kopię zapasową |
-| `/setbck` | Planuje kopię zapasową |
-| `/cancelbck` | Anuluje zaplanowaną kopię |
-| `/listbck` | Wyświetla listę zaplanowanych backupów |
-| `/cancelall` | Anuluje wszystkie zaplanowane backupy |
-| `/updatebck` | Aktualizuje zaplanowany backup |
-| `/history` | Pokazuje historię backupów |
-| `/stats` | Wyświetla statystyki bota |
-| `/setsql` | Zapisuje dane połączenia do MySQL |
+| `/forcebck` | Forces an immediate backup |
+| `/setbck` | Scheduling a backup |
+| `/cancelbck` | Cancels a scheduled copy |
+| `/listbck` | Displays a list of scheduled backups |
+| `/cancellall` | Cancels all scheduled backups |
+| `/updatebck` | Updates scheduled backup |
+| `/history` | Shows backup history |
+| `/stats` | Displays bot statistics |
+| `/setsql` | Writes connection data to MySQL |
 
 ## 📜 License
 This project is released under the MIT license.
