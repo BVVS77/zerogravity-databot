@@ -13,13 +13,13 @@ Discord Backup Bot is a bot designed to manage MySQL database backups directly f
 **To ensure the bot functions smoothly without issues, it is recommended to host it on the same machine where the MySQL database is running. This will enable faster communication and minimize potential network-related errors.**
 ### 1. **Cloning the repository**
 ```bash
-git clone https://github.com/user/discord-backup-bot.git
-cd discord-backup-bot
+git clone https://github.com/BVVS77/zerogravity-databot
+cd zerogravity-databot
 ```
 
 ### 2. **Installing dependencies**
 ```bash
-npm install
+npm install discord.js mysql2 node-schedule fs zlib
 ```
 
 ### 3. **Configuring the `config.json` file**
