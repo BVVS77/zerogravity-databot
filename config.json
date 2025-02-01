@@ -1,0 +1,10 @@
+{
+    "TOKEN": "YOUR_DISCORD_BOT_TOKEN",
+    "GUILD_ID": "YOUR_GUILD_ID",
+    "CLIENT_ID": "YOUR_CLIENT_ID",
+    "BCK_CHANNEL": true,
+    "DM_BACKUP": true,
+    "BCK_CHANNEL_ID": "YOUR_BACKUP_CHANNEL_ID",
+    "DM_USER_ID": "YOUR_DM_USER_ID"
+  }
+  
